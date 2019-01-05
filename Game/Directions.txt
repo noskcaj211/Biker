@@ -1,0 +1,29 @@
+So the game opens and you will want to press start when it opens but
+not until you finish reading the directions.
+So you have a score in the top right. This score is calculated by
+the number of flips you do in a single jump and adds to your previous
+score. You can flip clockwise or counter clockwise using the right and
+left keyboard buttons. You get double score if you change the direction
+you flip every time you flip (right then left then right...) It is 
+possible to do double flips but you need a full jump and it is very risky. 
+If you land on your head (past 90 degrees on either side of the bike) you will gameover
+so be careful!
+To preform a jump, you hold down the down button which charges a power
+meter in the top left of the screen. When you release you will get sent
+into the air.
+While in the air you can flip, dive, or hold.
+Flips were already talked about using the right and left buttons.
+Diving increases your gravity considerable and it is preformed using
+the space key (useful to get out of the way of blocks)
+and hold stop you from falling for .5 seconds when you press and hold
+up. You can only use hold once per jump.
+You can also only start charging your jump when your bike is on the ground
+the blocks have different colors to signify what they are. Yellow is on the top,
+red is long, green is high, and purple is a slit. dives are useful agains yellow
+and holds are useful agains purple.
+You will game over if you land "on your head" or if you hit a block
+
+If you want to restart the game quicker, press space rather than pressing the button
+
+Have Fun!
+btw run the .exe file in the Biker folder to actually play
